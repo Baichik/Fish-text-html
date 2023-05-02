@@ -6,7 +6,7 @@ authors = ["Baichik <zhumabek_uulu_b@iuca.kg>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-flask = "^1.1"
+flask = "^2.2"
 
 [tool.poetry.dev-dependencies]
 
